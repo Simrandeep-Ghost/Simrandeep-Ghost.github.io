@@ -1,72 +1,62 @@
-# Hi, I’m Simrandeep 👋
+# 👋 Hi, I'm Simrandeep Singh
 
-**Hands‑On Tech Explorer (IoT • Linux • Android)**
+🚀 Systems-Focused Developer | IoT • Linux • Device Tooling  
 
-I build small lab-style projects to learn by doing—working with **IoT sensors**, **Linux automation**, and **Android tooling** on older devices. I like troubleshooting, documenting what I learn, and turning experiments into repeatable setups.
-
----
-
-## 🔗 Links
-- GitHub: [https://github.com/Simrandeep-Ghost.github.io](https://simrandeep-ghost.github.io/)
-- Email: your.email@example.com
-- LinkedIn: [https://www.linkedin.com/in/your-handle/](https://www.linkedin.com/in/simrandeep-singh-47b24a352/)
-- Resume: (add link)
+I design and build system-level projects focused on **real-time monitoring**, **device communication**, and **automation workflows**.  
+My work emphasizes **reliability, observability, and reproducible setups**.
 
 ---
 
-## 🧰 Tech I use
-- **Systems:** Windows • Linux (Ubuntu/Debian)
-- **Scripting:** Bash
-- **IoT / Networking:** MQTT • HTTP basics
-- **Android tooling:** ADB (Android Platform Tools)
-- **Tools:** Git • GitHub • VS Code
+## ⚙️ Tech Stack
+- **Systems:** Linux (Ubuntu/Debian), Windows
+- **IoT & Networking:** MQTT, HTTP, TCP/IP basics
+- **Scripting:** Bash, Python
+- **Tools:** Docker, GitHub Actions, VS Code
+- **Device Tooling:** Android ADB, Debugging workflows
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Flagship Projects
 
-### 1) IoT Smart Sensor Monitor (ESP32 + MQTT)
-**What it is:** A small IoT project that reads sensor data (example: temperature/humidity) and sends it to an MQTT broker so it can be viewed on a dashboard.  
-**Tech:** ESP32/Arduino, MQTT, Wi‑Fi, Linux (Raspberry Pi / Ubuntu), Node-RED (or Python)  
-**Highlights:**
-- Published sensor readings to MQTT topics at regular intervals
-- Built a basic dashboard to view live readings and simple history
-- Added threshold alerts (example: notify when temperature crosses a set limit)
+### 📡 Real-Time IoT Monitoring System
+- ESP32 → MQTT → Processing Service → Dashboard
+- Real-time data streaming with alert system
+- Designed for low-latency communication
 
-Repo: https://github.com/Simrandeep-Ghost/iot-sensor-monitor
+👉 Repo: https://github.com/Simrandeep-Ghost/iot-sensor-monitor
 
 ---
 
-### 2) Linux System Setup & Automation (CLI + Bash)
-**What it is:** A collection of scripts and notes I use to set up a Linux machine faster and automate repetitive tasks.  
-**Tech:** Linux (Ubuntu/Debian), Bash, cron, systemd, SSH  
-**Highlights:**
-- One-command setup script to install common packages and dev tools
-- Automated routine tasks (backups/log cleanup) with cron jobs
-- Troubleshooting notes for services, permissions, and networking
+### ⚙️ Linux Automation Toolkit
+- One-command system setup scripts
+- Cron-based automation for maintenance tasks
+- Designed for reproducible environments
 
-Repo: https://github.com/Simrandeep-Ghost/linux-setup-automation
+👉 Repo: https://github.com/Simrandeep-Ghost/linux-setup-automation
 
 ---
 
-### 3) Samsung Galaxy S9 (Exynos) Android Tooling & Recovery Lab
-**What it is:** A hands-on learning project using my old **Samsung Galaxy S9 (Exynos)** to understand Android debugging and maintenance workflows using safe, official tooling (no risky mods).  
-**Tech:** Windows, Android Platform Tools (ADB), Samsung USB drivers, Developer Options (USB Debugging), Recovery/Download modes  
-**Highlights:**
-- Enabled **Developer Options** and set up **USB Debugging** to connect the device to Windows
-- Used **ADB** to verify connectivity, check device status, and collect logs for troubleshooting
-- Documented common driver/connection issues and a repeatable setup checklist
+### 📱 Android Debugging Toolkit
+- Device diagnostics using ADB
+- Logging, troubleshooting workflows
+- Repeatable debugging environment
 
-Repo: https://github.com/Simrandeep-Ghost/galaxy-s9-tooling-lab
+👉 Repo: https://github.com/Simrandeep-Ghost/galaxy-s9-tooling-lab
 
 ---
 
-## 📌 What I’m learning right now
-- Linux fundamentals (processes, services, permissions)
-- Networking basics (MQTT, ports, debugging connections)
-- Better documentation: turning experiments into step-by-step guides
+## 🧠 Engineering Focus
+- System design for small-scale distributed systems
+- Automation of repetitive workflows
+- Debugging at OS and device level
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Simrandeep-Ghost&show_icons=true)
 
 ---
 
 ## 📫 Contact
-If you want to collaborate or talk tech, reach out via LinkedIn or email.
+- LinkedIn: https://www.linkedin.com/in/simrandeep-singh-47b24a352/
+- Email: YOUR_EMAIL_HERE
